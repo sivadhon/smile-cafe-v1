@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "image": "/dish1.jpg",
+      "description": "Classic Italian pasta with creamy sauce.",
+      "price": "12.99"
+    },
+    {
+      "id": 2,
+      "name": "Grilled Chicken",
+      "image": "/dish2.jpg",
+      "description": "Juicy grilled chicken with herbs.",
+      "price": "14.50"
+    },
+    {
+      "id": 3,
+      "name": "Margherita Pizza",
+      "image": "/dish3.jpg",
+      "description": "Fresh tomato, basil, and mozzarella.",
+      "price": "10.99"
+    },
+    {
+      "id": 4,
+      "name": "Chocolate Lava Cake",
+      "image": "/dish4.jpg",
+      "description": "Rich molten chocolate dessert.",
+      "price": "8.99"
+    }
+  ]
+  

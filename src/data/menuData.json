@@ -1,0 +1,35 @@
+[
+    {
+      "category": "Beverages",
+      "items": [
+        { "name": "Cappuccino", "description": "Rich and foamy espresso.", "price": "$3.50" },
+        { "name": "Latte", "description": "Smooth espresso with steamed milk.", "price": "$4.00" },
+        { "name": "Cappuccino", "description": "Rich and foamy espresso.", "price": "$3.50" },
+        { "name": "Latte", "description": "Smooth espresso with steamed milk.", "price": "$4.00" },
+        { "name": "Cappuccino", "description": "Rich and foamy espresso.", "price": "$3.50" },
+        { "name": "Latte", "description": "Smooth espresso with steamed milk.", "price": "$4.00" }
+      ]
+    },
+    {
+      "category": "Desserts",
+      "items": [
+        { "name": "Cheesecake", "description": "Classic creamy cheesecake.", "price": "$5.50" },
+        { "name": "Brownie", "description": "Chocolate-rich fudge brownie.", "price": "$4.00" },
+        { "name": "Cheesecake", "description": "Classic creamy cheesecake.", "price": "$5.50" },
+        { "name": "Brownie", "description": "Chocolate-rich fudge brownie.", "price": "$4.00" },
+        { "name": "Cheesecake", "description": "Classic creamy cheesecake.", "price": "$5.50" },
+        { "name": "Brownie", "description": "Chocolate-rich fudge brownie.", "price": "$4.00" }
+      ]
+    },
+    {
+      "category": "Breakfast",
+      "items": [
+        { "name": "bread toast", "description": "Classic creamy bread toast.", "price": "$5.50" },
+        { "name": "bun butter jam", "description": "Chocolate-rich fudge bun butter jam.", "price": "$4.00" },
+        { "name": "bread toast", "description": "Classic creamy bread toast.", "price": "$5.50" },
+        { "name": "bun butter jam", "description": "Chocolate-rich fudge bun butter jam.", "price": "$4.00" },
+        { "name": "bread toast", "description": "Classic creamy bread toast.", "price": "$5.50" },
+        { "name": "bun butter jam", "description": "Chocolate-rich fudge bun butter jam.", "price": "$4.00" }
+      ]
+    }
+  ]
